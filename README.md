@@ -3,7 +3,7 @@
 
 🛠 I build scalable, full-stack web applications using:   
 - ⚡ **MongoDB** | **Express.js** | **React.js** | **Next.js** | **Node.js**  
-- 🎨 HTML | CSS (SASS) | JavaScript  
+- 🎨 HTML | CSS (SASS/SCSS) | JavaScript | TypeScript 
 - 🌍 Responsive & Accessible UI
 - 📡 RESTful APIs and real-time features
 - 🖥️ GitHub | Deployment  
