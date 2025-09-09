@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amr Ayyad</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">Fullstack Developer | MERN Stack Enthusiast</h3>
 
-🛠 I’m passionate about crafting **sleek, high-performance websites & web apps** using:   
-- ⚡ React.js | Next.js  
+🛠 I build scalable, full-stack web applications using:   
+- ⚡ **MongoDB** | **Express.js** | **React.js** | **Next.js** | **Node.js**  
 - 🎨 HTML | CSS (SASS) | JavaScript  
-- 🌍 Responsive & Accessible UI  
+- 🌍 Responsive & Accessible UI
+- 📡 RESTful APIs and real-time features
 - 🖥️ GitHub | Deployment  
 
 📌 **What I Do:**  
 ✅ Build **fast & responsive** web applications  
 ✅ Write **clean, maintainable code**  
-✅ Create **engaging user experiences**  
+✅ Create **engaging user experiences**
+✅ Strong backend skills: **REST API design, database modeling, token-based security**
+✅ A passion for clean, modular code and scalable system design
 
-🔭 **Currently Exploring:** **Node.js & Backend Development**  
+🔭 **Currently Exploring:** **React Native**  
 
 📫 **Let’s Connect!**
 
