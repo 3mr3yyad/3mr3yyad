@@ -11,9 +11,9 @@
 📌 **What I Do:**  
 ✅ Build **fast & responsive** web applications  
 ✅ Write **clean, maintainable code**  
-✅ Create **engaging user experiences**
-✅ Strong backend skills: **REST API design, database modeling, token-based security**
-✅ A passion for clean, modular code and scalable system design
+✅ Create **engaging user experiences**  
+✅ Strong backend skills: **REST API design, database modeling, token-based security**  
+✅ A passion for clean, modular code and scalable system design  
 
 🔭 **Currently Exploring:** **React Native**  
 
