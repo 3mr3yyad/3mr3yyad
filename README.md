@@ -15,7 +15,7 @@
 ✅ Strong backend skills: **REST API design, database modeling, token-based security**  
 ✅ A passion for clean, modular code and scalable system design  
 
-🔭 **Currently Exploring:** **React Native**  
+🔭 **Currently Exploring:** **DevOps**  
 
 📫 **Let’s Connect!**
 
