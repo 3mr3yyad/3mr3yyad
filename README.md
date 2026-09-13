@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Amr Ayyad</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
-I build scalable, secure, and maintainable web applications across the frontend and backend, with a strong focus on clean architecture, APIs, databases, and great user experiences.I work mainly with the JavaScript/TypeScript ecosystem, building modern applications with React, Next.js, Node.js, and NestJS.<hr><h1 
+<h3 align="center">Fullstack Developer | MERN Stack Enthusiast</h3>
 
 🛠 I build scalable, full-stack web applications using:   
 -  **MongoDB** | **Express.js** | **React.js** | **Next.js** | **Node.js**  | **Nest.js** 
