@@ -1,21 +1,61 @@
 <h1 align="center">Hi , I'm Amr Ayyad</h1>
-<h3 align="center">Fullstack Developer | MERN Stack Enthusiast</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
-🛠 I build scalable, full-stack web applications using:   
--  **MongoDB** | **Express.js** | **React.js** | **Next.js** | **Node.js**  | **Nest.js** 
--  HTML | CSS (SASS/SCSS) | JavaScript | TypeScript 
--  Responsive & Accessible UI
--  RESTful APIs and real-time features
--  GitHub | Deployment  
+I build scalable, secure, and maintainable web applications across the frontend and backend, with a strong focus on clean architecture, APIs, databases, and great user experiences.
 
-📌 **What I Do:**  
-✅ Build **fast & responsive** web applications  
-✅ Write **clean, maintainable code**  
-✅ Create **engaging user experiences**  
-✅ Strong backend skills: **REST API design, database modeling, token-based security**  
-✅ A passion for clean, modular code and scalable system design  
+I work mainly with the JavaScript/TypeScript ecosystem, building modern applications with React, Next.js, Node.js, and NestJS.
 
-🔭 **Currently Exploring:** **DevOps**  
+<hr>
+
+📌 **About Me:**  
+✅ Full-Stack Web Developer
+🌐 Building modern, responsive web applications
+⚙️ Developing scalable RESTful APIs and backend systems
+🗄️ Working with MongoDB and data-driven applications
+🔐 Implementing authentication, authorization, and secure APIs
+🧩 Interested in clean architecture and maintainable code
+☁️ Exploring cloud deployment and DevOps
+📚 Always learning, building, and improving  
+
+⚙️ Tech Stack
+Frontend
+
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,sass" /> </p>
+
+React · Next.js · JavaScript · TypeScript · HTML · CSS · SASS/SCSS
+
+Backend
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" /> </p>
+
+Node.js · NestJS · Express.js · REST APIs · GraphQL
+
+Database & Services
+
+<p> <img src="https://skillicons.dev/icons?i=mongodb,cloudinary" /> </p>
+
+MongoDB · Mongoose · MongoDB Atlas · Cloudinary
+
+Tools & Workflow
+
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode" /> </p>
+
+Git · GitHub · Postman · Docker · Linux · VS Code
+
+🚀 What I Build
+        User Interface
+              ↓
+      React / Next.js
+              ↓
+       REST / GraphQL
+              ↓
+     Node.js / NestJS
+              ↓
+       Business Logic
+              ↓
+      MongoDB / Services
+
+I enjoy working across the entire development lifecycle — from designing responsive interfaces to building APIs, modeling databases, implementing authentication, and deploying applications.  
 
 📫 **Let’s Connect!**
 
